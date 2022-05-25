@@ -2,13 +2,19 @@
   {
     "package": "foieGras",
     "url": "https://github.com/ianjonsen/foieGras"
+    "branch": "master",  
+    "available": true
   },
   {
     "package": "bsam",
     "url": "https://github.com/ianjonsen/bsam"
+    "branch": "master",  
+    "available": true
   },
   {
     "package": "mpmm",
     "url": "https://github.com/ianjonsen/mpmm"
+    "branch": "master",  
+    "available": true
   }
 ]
